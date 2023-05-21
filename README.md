@@ -12,6 +12,6 @@ This project provides the necessary code and instructions to train the model, ev
 
 To train the loan prediction model, follow these steps:
 
-Prepare your loan application dataset by following the preprocessing steps and ensuring the dataset matches the required format.
-Replace the placeholder data with your own dataset in the training code files.
-Choose one of the following classifiers: KNeighborsClassifier, LogisticRegression, or RandomForestClassifier.
+- Prepare your loan application dataset by following the preprocessing steps and ensuring the dataset matches the required format.
+- Replace the placeholder data with your own dataset in the training code files.
+- Choose one of the following classifiers: KNeighborsClassifier, LogisticRegression, or RandomForestClassifier.
